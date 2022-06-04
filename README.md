@@ -1,3 +1,6 @@
-# Multi-controlled Toffoli decomposition
+# Classiq's coding competition 
 
-Decompose a multi-controlled Toffoli gate
+This repository contains solution proposals to the following challenges:
+
+- Multi-controlled Toffoli decomposition
+- Kakuro puzzle
